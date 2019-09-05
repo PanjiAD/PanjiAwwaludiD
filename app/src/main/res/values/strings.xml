@@ -3,4 +3,6 @@
     <string name="nama">Panji Awwaludi Dzikriawan</string>
     <string name="nim">1741720049</string>
     <string name="kota">Pasuruan</string>
+    <string name="hint_name">Masukkan nama anda</string>
+    <string name="submit">Submit</string>
 </resources>
